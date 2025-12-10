@@ -12,11 +12,11 @@ Here is the sample response:
 
 1) Fork this repo
 2) Complete the challenge with this instructions and conditions
-    You do not need to code an remote call to the server to fetch data. 
-    You can use this response as the data from the server. 
-    Focus only on the Vue code, layout, UI/UX aspects of this challenge. 
-    Do not spend more than 2-3 hours on it. You really shouldhn't have to. 
-    Do use any libaries, frameworks, etc you are comfortable. Please leave some comments on why you chose those libaries/frameworks,etc
+    *  You do not need to code an remote call to the server to fetch data. 
+    * You can use this response as the data from the server. 
+    * Focus only on the Vue code, layout, UI/UX aspects of this challenge. 
+    * Do not spend more than 2-3 hours on it. You really shouldhn't have to. 
+    * Do use any libaries, frameworks, etc you are comfortable. Please leave some comments on why you chose those libaries/frameworks,etc 
 3) Commit your changes. 
 4) do a Pull request on this repo with your changes and email us back. 
 
