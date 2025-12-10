@@ -17,6 +17,7 @@ Here is the sample response:
     * Focus only on the Vue code, layout, UI/UX aspects of this challenge. 
     * Do not spend more than 2-3 hours on it. You really shouldhn't have to. 
     * Do use any libaries, frameworks, etc you are comfortable. Please leave some comments on why you chose those libaries/frameworks,etc 
+    * Nearly everyone is using some sort of Coding Augment tool. Pleease avoid using one for this challenge. If you do use one, please call out the sections of your code where you used and why. For the live port of the interview, we will ask you not to use any augement tools. 
 3) Commit your changes. 
 4) do a Pull request on this repo with your changes and email us back. 
 
